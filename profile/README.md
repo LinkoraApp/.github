@@ -1,6 +1,6 @@
 All repositories related to Linkora can be found here.
 
-Linkora is a self-hostable link management solution for Android, desktop, and web browsers.
+Linkora is a self-hostable link management solution for Android and desktop with browser extension.
 
 ---
 
