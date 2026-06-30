@@ -1,65 +1,73 @@
 # Linkora Code of Conduct
 
-## The Basics
+## The Pledge
 
-Look, this isn't complicated. We're all here because we care about building something useful. That means treating each other like actual people, with brains, feelings, and common sense. If you need a 50-page document to tell you how to be decent, this isn't the place for you.
+I pledge to make this community welcoming, safe, and equitable for all.
 
-## What Gets You Banned
+I do not care about your race, gender, religion, background, or any other personal trait. All that matters here is a quality contribution to the project and that you treat others with basic human decency. The same privileges of participation are extended to everyone who participates in good [faith](https://youtu.be/ZwOBYAkXMYY) and follows this Covenant.
 
-Some things have zero tolerance. No warnings, no second chances, no appeals:
+## Encouraged Behaviors
 
-* **Harassment of any kind.** This includes but isn't limited to: targeted insults, unwanted sexual attention, discriminatory comments, or anything that makes someone feel unsafe or unwelcome.
-* **Doxxing.** Sharing someone's private information without consent is an instant permanent ban. No exceptions.
-* **Destructive behavior.** Threats, stalking, impersonation, sustained disruption, or basically anything that crosses the line from "passionate contributor" to "someone who clearly doesn't know how to function in a shared space".
+While acknowledging differences in social norms, I expect everyone to meet community expectations for positive behavior. I also understand that words and actions may be interpreted differently than intended based on culture, background, or native language.
 
-This should already give you an idea on how to act. If you ignored it, that's on you.
+Furthermore, I expect anyone associated with this project to possess common sense, a clear sense of consciousness, and basic situational comprehension. If you have these traits, you will behave like the considerate, regular human beings I want in this community.
 
-## Communication Standards
+With this in mind, participants must behave mindfully toward each other and support these values:
 
-Technical disagreements are fine and often necessary. Different perspectives make the project better. But keep it professional and constructive. No slurs, no personal attacks, no comments designed to hurt someone's feelings. Debate the idea, not the person.
+1. Respecting the **purpose of this community**, the activities, and ways of gathering.
+2. Engaging **kindly and honestly** with others.
+3. Respecting **different viewpoints** and experiences, as long as they are clearly not stupid.
+4. **Taking responsibility** for actions and contributions.
+5. **Taking technical criticism about your code without taking it personally.**
+6. **Owning up to your mistakes and fixing them.**
+7. Acting in other ways that keep the **well-being of this community** healthy.
 
-As the project grows, people will come and go. Nobody expects you to be active 24/7. We all have jobs, lives, and other projects. But when you are here, communicate with respect.
+## Restricted Behaviors
 
-## Localization Contributors
+Do not do the following things in this community. Instances, threats, and promotion of these behaviors are violations of this Code of Conduct.
 
-I genuinely appreciate the help in making Linkora accessible to everyone. However, translations are public-facing and represent the project.
+1. **Harassment.** Violating explicitly expressed boundaries or engaging in unnecessary personal attention after any clear request to stop.
+2. **Character attacks.** Making insulting, demeaning, or pejorative comments directed at a community member or group of people. Bluntness is fine when it's aimed at an idea, decision, or code, that is not a violation. The second it is aimed at a person instead, even using the same kind of language, it is a different thing entirely, and that is where this Code of Conduct kicks in.
+3. **Stereotyping or discrimination.** Characterizing anyone’s personality or behavior on the basis of immutable identities or traits.
+4. **Sexualization.** **This is a technical space. Keep interactions strictly relevant to the work.**
+5. **Violating confidentiality**. Sharing or acting on someone's personal or private information without their permission.
+6. **Endangerment.** Causing, encouraging, or threatening violence or other harm toward any person or group.
+7. Behaving in other ways that **threaten the well-being** of this community.
 
-**If you submit offensive content, slurs, or deliberately garbage translations, you will be permanently banned.** This falls under the Zero Tolerance policy. Don't insert jokes, personal messages, or anything inappropriate. If you're not sure about a translation, don't translate it. Just skip it.
+### Other Restrictions
+1. **Misleading identity.** Impersonating someone else for any reason, or pretending to be someone else to evade enforcement actions.
+2. **Failing to credit sources.** Not properly crediting the sources of content you contribute.
+3. **Promotional materials**. Sharing marketing or other commercial content in a way that is outside the norms of the community.
+4. **Irresponsible communication.** Failing to responsibly present content which includes, links or describes any other restricted behaviors.
+
+## Reporting an Issue
+Tensions can occur even when people try to collaborate. Not every conflict is a code of conduct violation, but following this Code of Conduct helps avoid problems and minimize harm.
+
+When an incident does occur, it is important to report it promptly. To report a possible violation, email sakethh@proton.me with the subject line "Linkora CoC Violation". Include what happened, where it happened, and who was involved if known. I will review the report and reply with what is being done about it once I have looked into it.
+
+I take reports of violations seriously and will respond promptly. I will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. I will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. **I handle bans privately, but if a situation impacts the wider project, I will announce the outcome publicly.**
+
+## Addressing and Repairing Harm
+
+If my investigation finds that this Code of Conduct has been violated, I take immediate and decisive action. Because I expect a baseline of common sense, consciousness, and basic comprehension from all participants, I do not utilize a tiered ladder of warnings.
+
+If a member's actions are deemed obviously stupid, blatantly malicious, or clearly detrimental to the community's well-being, the consequence is straightforward:
+
+* **Permanent Ban**
+* **Event:** A violation of this Code of Conduct that demonstrates an obvious lack of common sense, disregard for basic human decency, or poses a threat to community safety.
+* **Consequence:** Access to all community spaces, tools, and communication channels is permanently removed.
+* **Repair:** There is no possible repair in cases of this severity.
+
+This enforcement policy is strictly intended as a guideline to keep this space safe. It does not limit my ability to use my discretion and judgment in keeping with the best interests of this community.
 
 ## Scope
 
-This applies **strictly** to the Linkora organization and its repositories on GitHub. That is it.
+This Code of Conduct applies in all community spaces and when you represent the community publicly. Examples of representing this community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-I do not police the internet. I do not moderate social media, Discord servers, or private chats. If you have a problem with someone outside of the Linkora organization, keep it outside of the organization.
+## Attribution
 
-Do not bring external drama into issues, pull requests, or discussions. If it didn't happen on a Linkora repository, it is not my problem to solve.
+This Code of Conduct is adapted from the Contributor Covenant, version 3.0, permanently available at [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
 
-## Maintainer Authority and Accountability
+Contributor Covenant is stewarded by the Organization for Ethical Source and licensed under CC BY-SA 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Maintainers can remove, edit, or reject anything within the repo: comments, commits, code, wiki edits, issues, contributions. We're building software, not running a democracy. Maintainers make the final call to keep the project moving.
-
-**But maintainers aren't special.** Being a maintainer doesn't make you superior or exempt from these rules within the repo. You follow the code of conduct just like everyone else, and if you violate it here, you get banned just like anyone else. As I am currently the sole maintainer, this applies to me too.
-
-## Everyone Means Everyone
-
-This applies to everybody interacting with the Linkora repositories in any capacity. Contributors, issue reporters, maintainers, and one-time participants. Everyone. Nobody gets special treatment. Nobody gets to be toxic just because they wrote a lot of code or maintain a component.
-
-## Why Zero Tolerance?
-
-We build open-source stuff because it has an impact that everyone can be part of, something meaningful. We don't have the energy or patience to deal with bad actors, manage drama, or give people multiple chances to figure out how to be decent.
-
-## Reporting
-
-If someone violates this code of conduct **on this organization's repositories**, report it to **sakethh@proton.me**.
-
-**Please use the subject line: "Linkora CoC Violation"**
-
-I'll review the report, look into what happened, and reply with what's being done about it once I've seen the issue.
-
-## For Contributions
-
-See `CONTRIBUTING.md` in the respective repositories for guidelines on how to actually contribute code, report issues, and participate in development. This document is about behavior; that one is about the work itself.
-
----
-
-**Bottom line:** Act like a reasonable human being with basic decency while you are in this organization's repos. If you can't do that, this isn't the community for you.
+For answers to common questions about Contributor Covenant, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are provided at [https://www.contributor-covenant.org/translations](https://www.google.com/search?q=https://www.contributor-covenant.org/translations). Additional enforcement and community guideline resources can be found at [https://www.contributor-covenant.org/resources](https://www.google.com/search?q=https://www.contributor-covenant.org/resources).
